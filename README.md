@@ -2,10 +2,9 @@
 
 Modul Web-Programmierung SoSe19
 
-alle erstellten Websites können im Browser dargestellt werden
 
 ## Aufgabe 1 - Nachbau einer vorgegebenen XHTML-Website
-
+</br>
 
 ## Aufgabe 2 - Eigenes CSS Zen Garden Design erstellen
 Für weitere Informationen siehe: http://www.csszengarden.com
