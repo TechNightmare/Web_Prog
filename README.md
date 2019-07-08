@@ -5,7 +5,7 @@ Modul Web-Programmierung SoSe19
 
 ## Aufgabe 1 - Nachbau einer vorgegebenen XHTML-Website
 </br>
-<img src="Nachbau_XHTML/Vorlage.jpg" height="50" width="100">
+<img src="Nachbau_XHTML/Vorlage.jpg" height="50%" width="50%">
 
 
 
