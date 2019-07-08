@@ -1,0 +1,181 @@
+html {
+
+	}
+body { 
+	background-color: black;
+	color: white;
+	}
+
+h3 { 
+	font-size: 40px;
+	color: #99ffff;
+	}
+a:link { 
+	color: white;
+	text-decoration: none;
+	}
+a:visited { 
+	color: #404042;
+	}
+
+
+/* specific divs */
+.page-wrapper { 
+	background: url(http://getwallpapers.com/wallpaper/full/0/d/3/12905.jpg) no-repeat;
+	background-size: 100% auto;
+	background-attachment: fixed;
+	}
+
+.intro { 
+	margin-left: 285px;
+	}
+header {
+	text-align: center;
+	height: 250px;
+	padding: 10px;
+	font-family: Helvetica, Roboto, sans-serif;
+	font-size: 30px;
+	font-style: italic;
+	background-color: grey;
+	opacity: 0.8;
+	color: #66ffff;
+}
+
+.summary {
+	background-color: grey;
+	height: 100px;
+	padding: 30px;
+	opacity: 0.95;
+	font-size: 25px;
+	opacity: 0.8;
+	text-align: center;
+	border-style: solid;
+	border-color: #81DAF5;
+	}
+
+.preamble {
+	text-align: center;
+	height: 450px;
+	border-style: solid;
+	border-color: grey;
+	font-size: 25px;
+	background-color: black;
+	padding: 100px 70px;
+	opacity: 0.7;
+	}
+.supporting {	
+	margin-left: 285px;
+	}
+.explanation{
+	background-color: #434040;
+	height: 450px;
+	border-style: solid;
+	text-align: center;
+	border-color: #81DAF5;
+	font-size: 25px;
+	padding: 200px 70px;
+	opacity: 0.8;
+}
+.participation{
+	background-color: black;
+	height: 500px;
+	border-style: solid;
+	border-color: grey;
+	text-align: center;
+	font-size: 25px;
+	padding: 200px 70px;
+	opacity: 0.7;
+	
+}
+.benefits{
+	background-color: #434040;
+	height: 350px;
+	border-style: solid;
+	border-color: #81DAF5;
+	text-align: center;
+	font-size: 25px;
+	padding: 200px 70px;
+	opacity: 0.8;
+	
+}
+.requirements{
+	background-color: black;
+	height: 600px;
+	border-style: solid;
+	border-color: grey;
+	text-align: center;
+	font-size: 25px;
+	padding: 200px 70px;
+	opacity: 0.7;
+}
+footer { 
+	height: 50px;
+	background-color: #2A2B35;
+	border-style: solid;
+	opacity: 0.7;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	padding: 20px;
+	
+	}
+footer a:link, footer a:visited { 
+	text-decoration: none;
+	color: #81DAF5;
+	}
+
+.sidebar {
+	position: fixed; top: 0px; left:0;
+	z-index: 1;
+	height: 100%;
+	width: 285px;
+	background-color: black;
+	border-style: solid;
+	border-color: white;
+	font-size: 12px;
+	border-top-width: 260px;
+	border-top-color: black;
+	padding-left: 0px;
+	}
+.sidebar .wrapper { 
+	background-color: white;
+
+	}
+.sidebar h3.select { 
+	padding-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	color: black;
+	}
+.sidebar h3.archives { 
+	padding-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	color: black;
+	}
+.sidebar h3.resources { 
+	padding-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	color: black;
+	}
+
+
+.sidebar ul {
+	list-style-type: none;
+	background-color: black;
+	padding: 0;
+  	border: 1px solid #ddd;
+	}
+.sidebar li {
+	padding: 8px 16px;
+  	border-bottom: 1px solid #ddd;
+  	font-size: 14px;
+	}
+.sidebar li a:link {
+	color: white;
+	text-decoration: none;
+	}
+.sidebar li a:visited {
+	color: #81DAF5;
+	}
